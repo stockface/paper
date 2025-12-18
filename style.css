@@ -3,9 +3,12 @@ body{
         }
 
 img {
-    float: centre;
-    width: 80%;
-    height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: 95%;
+    padding-left: 3%;
 }
 
 footer{
