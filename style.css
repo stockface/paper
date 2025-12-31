@@ -14,5 +14,11 @@ img {
 footer{
     text-align: right;
     font-style: oblique;
-    
 }
+
+footer a {
+    text-decoration: none;
+    font-style: oblique;
+    color: black;
+}
+
